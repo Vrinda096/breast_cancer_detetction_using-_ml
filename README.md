@@ -1,4 +1,4 @@
-# breast_cancer_detetction_using-_machine learning
+# Breast Cancer Detection Using Machine Learning
 # Project Description
 
 This project focuses on predicting breast cancer using Machine Learning and Deep Learning techniques on a numerical medical dataset. The system classifies tumors as either benign or malignant using multiple classification models and compares their performance.
