@@ -15,12 +15,12 @@ The comparative analysis showed that the Neural Network achieved the best overal
 
 # Libraries Used In This Project
 * numpy
-+ pandas
-- matplotlib
-- seaborn
+* pandas
+* matplotlib
+* seaborn
 * scikit-learn
-+ tensorflow
-+ keras
+* tensorflow
+* keras
 # Workflow
 * Dataset Collection
 * Data Preprocessing
